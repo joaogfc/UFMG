@@ -1,23 +1,13 @@
 # 🎓 UFMG – Programação em C
 
-[![Licença MIT](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
-[![Último Commit](https://img.shields.io/github/last-commit/joaogfc/UFMG?color=brightgreen)](https://github.com/joaogfc/UFMG/commits/main)
-[![Tamanho do Repositório](https://img.shields.io/github/repo-size/joaogfc/UFMG?color=orange)](https://github.com/joaogfc/UFMG)
-[![Linguagens Usadas](https://img.shields.io/github/languages/count/joaogfc/UFMG?color=purple)](https://github.com/joaogfc/UFMG)
-[![Feito com C](https://img.shields.io/badge/feito%20com-C-blue.svg)](https://github.com/joaogfc/UFMG)
+[![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
+[![Último Commit](https://img.shields.io/github/last-commit/joaogfc/UFMG?label=%C3%9Altimo%20Commit&color=brightgreen)](https://github.com/joaogfc/UFMG/commits/main)
+[![Tamanho do Repositório](https://img.shields.io/github/repo-size/joaogfc/UFMG?label=Tamanho%20do%20Reposit%C3%B3rio&color=orange)](https://github.com/joaogfc/UFMG)
+[![Linguagens Usadas](https://img.shields.io/github/languages/count/joaogfc/UFMG?label=Qtd.%20de%20Linguagens&color=purple)](https://github.com/joaogfc/UFMG)
+[![Feito com C](https://img.shields.io/badge/Feito%20com-C-blue.svg)](https://github.com/joaogfc/UFMG)
 
 > **Anotações, códigos comentados e exercícios resolvidos da disciplina de Programação em C da UFMG.**
 
----
-
-## ✨ Preview
-
-**Quer ver os códigos funcionando?** Aqui vai um exemplo animado (adicione um GIF futuramente):
-
-![Preview]([https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlcXg3cnN3bWt4dXdob3UzZm85Nnp3MnpycnkwcGo1ZTh1Z2h1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CnTzlGz79qPUXBpyPL/giphy.gif))  
-<sub>
-
----
 
 ## 📚 O Que Você Vai Encontrar Aqui
 
