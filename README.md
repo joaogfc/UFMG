@@ -14,8 +14,8 @@
 
 **Quer ver os códigos funcionando?** Aqui vai um exemplo animado (adicione um GIF futuramente):
 
-![Preview](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)  
-<sub>*GIF meramente ilustrativo – substitua por um com seu próprio código em ação.*</sub>
+![Preview]([https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlcXg3cnN3bWt4dXdob3UzZm85Nnp3MnpycnkwcGo1ZTh1Z2h1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CnTzlGz79qPUXBpyPL/giphy.gif))  
+<sub>
 
 ---
 
